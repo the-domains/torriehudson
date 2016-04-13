@@ -1,7 +1,7 @@
 name: Torrie Hudson
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.47203
+layout_spectrum: 1
+typography_spectrum: 0.593
 title: Torrie Hudson
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#656e5e'
     - '#99a99a'
     - '#564435'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
