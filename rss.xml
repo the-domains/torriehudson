@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Torrie Hudson]]></title>
         <description><![CDATA[Torrie Hudson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.torriehudson.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 02:43:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 02:52:22 GMT</lastBuildDate>
+        <atom:link href="http://www.torriehudson.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Torrie Hudson]]></title>
             <description><![CDATA[<article><h1>Torrie Hudson</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28377380-c574-41fb-9c9b-2d1490eff82d.png"></article>]]></description>
             <link>urn:uuid:88a5864c-9d6d-4655-8082-dde76a88d8d0</link>
             <guid isPermaLink="false">8ae9c9da-5672-4848-bc26-af6eb65b07b0</guid>
-            <pubDate>Wed, 13 Apr 2016 02:43:13 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 02:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
