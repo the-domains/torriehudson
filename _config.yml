@@ -23,14 +23,14 @@ color:
     - '#828C98'
     - '#62584E'
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
 name: Torrie Hudson
 opengraph:
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.0585392
-layout_spectrum: 0.9189044
+layout_spectrum: 0.594522
