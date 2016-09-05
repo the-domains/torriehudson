@@ -1,29 +1,41 @@
-name: Torrie Hudson
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.593
 title: Torrie Hudson
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.625
+  brandStrength: 0.4989259
+  lightness: 0.375
+  brandColors:
+    - '#212121'
+    - '#F0F4F5'
+    - '#C6B9A9'
+    - '#828C98'
+    - '#62584E'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Torrie Hudson
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fcfafb'
-    - '#312a2a'
-    - '#d7cfc8'
-    - '#937f77'
-    - '#f0a482'
-  brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.0585392
+layout_spectrum: 0.9189044
