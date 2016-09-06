@@ -6,33 +6,33 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.625
+  saturation: 0.2690655
   brandStrength: 0.4989259
-  lightness: 0.375
+  lightness: 0.3109559
   brandColors:
     - '#212121'
     - '#F0F4F5'
     - '#C6B9A9'
     - '#828C98'
     - '#62584E'
-  rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: Torrie Hudson
+  rhythmicContrast: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Torrie Hudson
 opengraph:
   image: null
   type: null
