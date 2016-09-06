@@ -13,26 +13,26 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3055854
+  saturation: 1
   brandStrength: 0.4989259
-  lightness: 0.2969925
+  lightness: 1
   brandColors:
     - '#212121'
     - '#F0F4F5'
     - '#C6B9A9'
     - '#828C98'
     - '#62584E'
-  rhythmicContrast: 0.2980666
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
+  rhythmicContrast: 0.9844254
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Torrie Hudson
+favicon: null
 opengraph:
   image: null
   type: null
